@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "description": "eggs",
+    "status": "done",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 2,
+    "description": "milk",
+    "status": "done",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 3,
+    "description": "butter",
+    "status": "todo",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 4,
+    "description": "cheese",
+    "status": "todo",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 5,
+    "description": "yogurt",
+    "status": "todo",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 6,
+    "description": "juice",
+    "status": "todo",
+    "createAt": "2025-04-19T17:06:46.0989577",
+    "updatedAt": "2025-04-19T18:42:11.9390828"
+  },
+  {
+    "id": 7,
+    "description": "fruits",
+    "status": "todo",
+    "createAt": "2025-04-19T19:08:52.5052407",
+    "updatedAt": "2025-04-19T19:08:52.5052407"
+  },
+  {
+    "id": 8,
+    "description": "vegetables",
+    "status": "todo",
+    "createAt": "2025-04-19T19:08:52.5052407",
+    "updatedAt": "2025-04-19T19:08:52.5052407"
+  },
+  {
+    "id": 9,
+    "description": "snacks",
+    "status": "todo",
+    "createAt": "2025-04-19T19:08:52.5052407",
+    "updatedAt": "2025-04-19T19:08:52.5052407"
+  },
+  {
+    "id": 10,
+    "description": "veagen eggs",
+    "status": "todo",
+    "createAt": "2025-04-22T23:35:23.0938834",
+    "updatedAt": "2025-04-22T23:35:23.0938834"
+  }
+]
